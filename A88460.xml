@@ -1,0 +1,537 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Com' Concil' tent' in Camera Guihald' civitat' London, die Veneris vicesimo sexto die Octobr', anno regni Domini &amp; Dominæ nostrorum, Willielmi &amp; Mariæ ... an Act for licensing carts, to be used by the freemen, woodmongers or traders in fuel, that inhabit within this city and liberties thereof.</title>
+            <title>Act of Common Council for Licensing Carts, London</title>
+            <author>Corporation of London (England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88460</idno>
+            <idno type="STC">Wing L2861B</idno>
+            <idno type="STC">ESTC R230403</idno>
+            <idno type="EEBO-CITATION">99896270</idno>
+            <idno type="PROQUEST">99896270</idno>
+            <idno type="VID">154048</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154048)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2395:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Com' Concil' tent' in Camera Guihald' civitat' London, die Veneris vicesimo sexto die Octobr', anno regni Domini &amp; Dominæ nostrorum, Willielmi &amp; Mariæ ... an Act for licensing carts, to be used by the freemen, woodmongers or traders in fuel, that inhabit within this city and liberties thereof.</title>
+                  <title>Act of Common Council for Licensing Carts, London</title>
+                  <author>Corporation of London (England)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Samuel Roycroft, printer to the honorable city of London,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Carriages and carts --  Licenses --  England --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Common_Council__City_of_London">
+            <pb facs="tcp:154048:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb n="1" facs="tcp:154048:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the City of London</figDesc>
+               </figure>
+Com' Concil' tent' in Camera <hi>Guihald'</hi> Civitat' <hi>LONDON,</hi> die <hi>Veeris</hi> Viceſimo ſexto die <hi>Octobr',</hi> Anno Regni Iomini &amp; Dominae No<g ref="char:EOLhyphen"/>ſtrorum, WILLIELMI &amp; MARIAE, nunc Regis &amp; Reginae, <hi>Angiae, &amp;c.</hi> Sexto: Coram <hi>Willielmo Aſhhurſt</hi> Mil' Major'; <hi>Thoma Lane</hi> Mil', Major' Elect'; <hi>Roberto Cayton</hi> Mil', <hi>Patienc' Ward</hi> Mil'. <hi>Thoma Stamp</hi> Mi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> 
+               <hi>Solathiel Lovell</hi> Mil'. Servien' ad Legem ac <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecordat' dictae Civitat'; <hi>Humphrido Edwyn</hi> Mil, <hi>Richardo Levit</hi> Mil', <hi>Jacobo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Houblon</hi> Mil', <hi>Thoma Abney</hi> Mil', &amp; <hi>Willielmo Hedges</hi> Mil' &amp; Alderman'; Necnon Major' parte Commuiar' dictae Civitat' in eodem Com' Concil' tunc &amp; ibidem Aſſemblat'.</head>
+            <head type="sub">An <hi>ACT</hi> for Licenſing <hi>Carts,</hi> to be uſed by the Freemen, Woodmongers or Traders in <hi>Fuel,</hi> that Inhabit within this City and Liberties thereof</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>HEREAS</hi> there was formerly aſſigned, allowed and approp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iated, by the <hi>Mayor</hi> and <hi>Comminalty,</hi> an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Citizens</hi> of the City of <hi>LONDON,</hi> unto the <hi>Woodmongers</hi> or <hi>Traders in Fuel,</hi> inhabiting within the ſaid City and the Liberties thereof, a certain Number of
+<pb n="2" facs="tcp:154048:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 20 -->
+               <hi>CARTS,</hi> for carrying of <hi>Sea-coals</hi> and other Fuel' which have been part o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Number of <hi>Four hundred and twenty CARS</hi> or <hi>CARTS</hi> allowed, marked and appointed for th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> General Service of this <hi>CITY:</hi> But of late years the Number of <hi>Inha<g ref="char:EOLhyphen"/>bitants</hi> being greatly i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>creaſed, and by reaſon there<g ref="char:EOLhyphen"/>of the neceſſary uſe of <hi>Street-Cars</hi> or <hi>Carts</hi> is much increaſed alſo; and t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erefore all the ſaid <hi>Four hun<g ref="char:EOLhyphen"/>dred and Twenty Cars</hi> have been uſed only for <hi>Street-Cars</hi> and <hi>Carts,</hi> whereby the <hi>Woodmongers</hi> and <hi>Traders in FUEL,</hi> w<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hin this City and the Liber<g ref="char:EOLhyphen"/>ties thereof, are in <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great meaſure Diſabled to Manage and Carry o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their ſaid Trade and Imploy<g ref="char:EOLhyphen"/>ments; the which <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey have Humbly repreſented unto this <hi>COURT <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Common Council,</hi> and prayed Relief therein.</p>
+            <p>And this <hi>COU<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>T</hi> having taken the ſame into Serious Conſiderati<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, do find it neceſſary to In<g ref="char:EOLhyphen"/>creaſe the ſaid Numb<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Four hundred and twenty Cars</hi> and <hi>Carts,</hi> ſo all<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wed and appointed as afore<g ref="char:EOLhyphen"/>ſaid, ſo far forth as <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay be neceſſary for the ſaid <hi>Woodmongers</hi> or <hi>Deaers in Fuel,</hi> only for the Ma<g ref="char:EOLhyphen"/>nagement and Carry<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng on their ſaid Trades and Imployments; and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſo for Enabling them to fur<g ref="char:EOLhyphen"/>niſh the <hi>Citizens</hi> and other Inhabitants of this City and Liberties with <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>OALS</hi> and other <hi>Fuel,</hi> at as cheap and eaſie Rates and Prices, as They or any Others may or can.</p>
+            <p>Be it Enacted ther<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore by the Right Honourable the <hi>Lord Mayor, Al<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rmen</hi> and <hi>Commons in Com<g ref="char:EOLhyphen"/>mon Council</hi> aſſemble<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and by the Authority of the ſame, that there ſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be allowed, marked and appointed, to and fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſole Vſe and Imployment of the <hi>WOODMONGERS</hi> or <hi>Traders in FUEL,</hi> (being <hi>Freemen,</hi> and Inhabiting within the City of <hi>London</hi> and the Liberties thereof, and no other) a fitting and convenient Number of <hi>CARS</hi> and
+<pb n="3" facs="tcp:154048:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 20 -->
+               <hi>CARTS,</hi> not exceeding <hi>One <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>undred and twenty,</hi> other than and beſides the a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oreſaid Number of <hi>Four hundred and twenty CARS</hi> and <hi>CARTS,</hi> now uſed as <hi>Street Cars</hi> an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Carts,</hi> as afore<g ref="char:EOLhyphen"/>ſaid:</p>
+            <p>The which <hi>Cars</hi> and <hi>Carts</hi> ſo t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be allowed, marked and appointed, ſhall be appropriate unto them the ſaid <hi>Woodmongers</hi> or <hi>Traders in FU<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>L,</hi> for the ſole Vſe, Management and Carrying on the ſaid Trade or Imployment of <hi>Woodmongers</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Dealers in Fuel</hi> only; and ſhall be divided and diſtribted to and amongſt them from time to time, as may be moſt convenient for them, and leaſt to the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnoyance and Ob<g ref="char:EOLhyphen"/>ſtruction of the Publick <hi>Streets</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <hi>Paſſages</hi> of this City and the Liberties thereof; <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ny <hi>Act of Common Council,</hi> or other Law, V<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Cuſtom of this City, now in being and in force, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the contrary thereof in any wiſe notwithſtanding.</p>
+            <p>And be it further Enacted b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Authority afore<g ref="char:EOLhyphen"/>ſaid. That the ſaid <hi>CARS</hi> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <hi>CARTS</hi> ſo to be allowed, marked and appoin<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by virtue of this <hi>Act,</hi> ſhall not be, nor taken o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eſteemed to be Ap<g ref="char:EOLhyphen"/>purtenant to the ſeveral and reſpective <hi>Wharf</hi> or <hi>Wharfs,</hi> to which the ſame or <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny of them are or ſhall be ſo allowed or appoin<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d; nor ſhall be ſold or diſpoſed of by ſuch or a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y other the <hi>Wood<g ref="char:EOLhyphen"/>mongers</hi> or <hi>Traders in FU<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>L,</hi> in any manner howſoever.</p>
+            <p>And that the <hi>Cars</hi> and <hi>Cart</hi> ſo to be allowed and appointed to the ſaid <hi>Wood<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ongers</hi> or <hi>Traders in Fuel,</hi> ſhall be burnt with a <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aggot-mark on both the outſides thereof, and ſhal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have alſo thereupon a piece of <hi>Braſs,</hi> with the true Number of ſuch <hi>Cars</hi> or <hi>Carts;</hi> and the <hi>Raves</hi> thereo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall be higher than the <hi>Raves</hi> of the <hi>Street Cars</hi> or <hi>Carts,</hi> to keep the <hi>Fuel</hi> the ſafer from falling off and hurting the
+<pb n="4" facs="tcp:154048:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 21 -->
+               <hi>People</hi> in the Str<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ets, and alſo the better to di<g ref="char:EOLhyphen"/>ſtinguiſh them from the ſaid other <hi>CARS</hi> and <hi>CARTS.</hi>
+            </p>
+            <p>And that the ſaid <hi>Wharf-Carts</hi> nor <hi>Cars,</hi> nor any of them, ſhall Wo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k in the <hi>Streets</hi> in any other Work than only in Carrying of <hi>Coals</hi> and other <hi>Fuel,</hi> to and from <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e reſpective <hi>Wharfs,</hi> belonging to ſuch Perſons t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whom the ſaid <hi>Cars</hi> or <hi>Carts</hi> ſhall be reſpectively <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llowed; upon pain, That for every time ſuch <hi>Wha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f-Car</hi> or <hi>Cart</hi> ſhall Work, or be otherwiſe Implo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed for Wages, Hire or Re<g ref="char:EOLhyphen"/>ward, the <hi>Owner</hi> of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſaid <hi>Car</hi> or <hi>Cart</hi> ſhall Forfeit and pay for every <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch Offence the Sum of <hi>Five Pounds.</hi>
+            </p>
+            <p>And all and ever the <hi>LICENSES</hi> that ſhall be given to any <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch <hi>Woodmonger</hi> and <hi>Trader in FUEL,</hi> whoſe <hi>Cart</hi> or <hi>Cars</hi> ſhall be ſo Hired and Imployed, contrary t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the true Intent and Meaning of this preſent <hi>Act,</hi> ſhall <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om thence be ſuſpended till ſuch reſpective Penalty or <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enalties ſhall be paid and ſatiſ<g ref="char:EOLhyphen"/>fied: And every Pe<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t ſo offending, ſhall (till the ſaid reſpective Sums be <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid) be Diſabl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to Work any of his ſaid <hi>Cars</hi> or <hi>Ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts,</hi> notwithſtanding any <hi>Licenſe</hi> or <hi>Licenſes</hi> to ſuch Perſon or Perſons, granted by virtue of this <hi>Act.</hi>
+            </p>
+            <p>And for the better putting this <hi>ACT</hi> in due Execution, and for the more equal and impartial Diſtribution of the ſa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Wharf-Cars</hi> or <hi>Carts,</hi> to and amongſt the ſaid <hi>Woo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mongers</hi> or <hi>Traders in FUEL,</hi> with due reſpect to the<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſeveral and reſpective Wants and Decaſions in t<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſaid reſpective Trades: Be it further Enacted by the Authority aforeſaid, That the Right Honourable <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir <hi>Thomas Lane</hi> Knight, Lord Mayor Elect, Sir <hi>Thomas Stamp</hi> Knight, Sir <hi>James Houblon</hi> and Sir <hi>Francis Child,</hi> Knights and A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>derme<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of this City; and Mr. <hi>Caddon,</hi> Mr. Deputy <hi>Eyre,</hi>
+               <pb n="5" facs="tcp:154048:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 21 -->Mr. <hi>Richier,</hi> Mr. <hi>Dorvill,</hi> M. <hi>Houlton,</hi> Mr. <hi>Harvey,</hi> Mr. Deputy <hi>Tooly</hi> and Mr. Deputy <hi>Collet,</hi> Com<g ref="char:EOLhyphen"/>moners, or any Five of them whereof an Alderman to be One, are by this <hi>COURT</hi> of <hi>Common Council</hi> made and appointe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <hi>Committee,</hi> with Directions, full Power and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uthority, by virtue of this <hi>ACT,</hi> to take Care of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Marking, Allowing and Appointing fit and conv<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nient <hi>Wharf-Cars</hi> and <hi>Carts,</hi> and to Divide, Diſt<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ute and Appoint the ſame to and amongſt all and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery the <hi>Woodmongers</hi> and <hi>Dealers in Fuel,</hi> as aforeſa<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, within the City and Liberties thereof, deſiring the ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, by them to be Im<g ref="char:EOLhyphen"/>ployed and uſed in, and for carr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng out and bringing in their <hi>FUEL,</hi> according to the intent and meaning of this preſent <hi>Act:</hi> And alſo <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o take due Care from time to time, that the <hi>Coals</hi> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <hi>Fuel</hi> by ſuch <hi>Wood<g ref="char:EOLhyphen"/>mongers</hi> and <hi>Dealers in Fuel,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old and Delivered to all and every Perſon and Pe<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons within this City and Liberties thereof, ſhall c<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tain the Full and Due Meaſure, Weight, Size and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale, and that the ſame be Sold and Delivered at reaſonable Rates and Prices from time to time; And alſo to prevent all Frauds and Deceits in th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sale and Delivery thereof; and all Abuſes, Nuſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces and Obſtructions by ſuch <hi>Cars</hi> or <hi>Carts</hi> in th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Streets and publick Paſſages, in this City and L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>berties thereof; And to appoint ſuch Perſon and Perſons as to them ſhall appear neceſſary to Inſpe<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Overſee, that the ſaid <hi>Wharf-Carts</hi> be duly <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arked and Imployed to the Vſes aforeſaid; and th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t no Fraud or Deceit be done or committed, contr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry to the true intent and meaning of this <hi>Act:</hi> Wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch ſaid <hi>COMMITTEE</hi> ſhall and may continue until the 25th Day of <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> now next enſuing, or un<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>il a <hi>New Committee</hi> ſhall be Choſen; and ſo fro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Year to Year, and every Year afterwards.</p>
+            <pb n="6" facs="tcp:154048:4" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <p>And for the more ce<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tain avoiding of ſuch Deceit hereafter, as divers Pe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſons have heretofore practiſed in the Sale and M<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſure of their <hi>COALS:</hi> Be it further Enacte<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the Authority aforeſaid, That all <hi>Sea-coals</hi> here<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter to be Sold and Vttered by Retail, by any perſo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or perſons whatſoever, ſhall be fill'd and brought ſome to the Buyers in the <hi>Seacoal-Meeters Sacks,</hi> &amp; ſuch other <hi>Sacks</hi> as contain the full Meaſure of t<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Seacoal-Meeters Sacks;</hi> and are and ſhall be Mark<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by the <hi>Keeper</hi> of the <hi>Guild-Hall</hi> for the time being, according to an <hi>ORDER</hi> of the <hi>Court of Aldermen</hi> made the <hi>25th</hi> of <hi>October,</hi> in the time of the <hi>Majealty</hi> of Sir <hi>Thomas Cambell</hi> Knight, deceaſed.</p>
+            <p>And that all perſon and perſons Vending or Vt<g ref="char:EOLhyphen"/>tering <hi>Sea-coals</hi> by R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tail<g ref="char:punc">▪</g> and every <hi>Carman,</hi> his Servant or Agent; <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall hereafter from time to time, and at all times when they Carry or Send abroad any <hi>Coals</hi> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in this City of <hi>London</hi> or Liberties thereof, ca<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> along in their <hi>Carts</hi> or <hi>Cars,</hi> together with their <hi>Seacoals,</hi> a good and lawful <hi>Buſhel</hi> Sealed, according to be <hi>Buſhel</hi> in the <hi>Guild-Hall</hi> allowed for <hi>Meaſuring</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Sea-coals,</hi> which agreeth with the <hi>Fatt,</hi> anciently uſed <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or Meaſuring of <hi>Sea-coals.</hi>
+            </p>
+            <p>And if any perſon &amp; perſons ſhall bring Home in his or their <hi>Cart</hi> or <hi>C<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> to any Buyer, any <hi>Coals</hi> in any other <hi>Sack</hi> or <hi>Sacks,</hi> and without ſuch <hi>Buſhel,</hi> as are before mentioned <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd appointed; ſuch perſons ſo Offending, ſhall for<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et and pay <hi>Twenty ſhillings</hi> for the firſt, and every oth<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Offence reſpectively.</p>
+            <p>And that it may the better appear what Number of <hi>Wharf-Cars</hi> or <hi>Carts</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall be appointed and allowed for Wharf-ſervice, as <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>foreſaid, and to whom the ſaid <hi>Committee,</hi> now or h<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eafter to be appointed, or any Five of them (whereof one to be an <hi>Alderman</hi>) ſhall Yearly, in the Month of <hi>May,</hi> preſent unto the <hi>Lord</hi>
+               <pb n="7" facs="tcp:154048:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 22 -->
+               <hi>Mayor</hi> and <hi>Court of Aldermen</hi> of this City (if there<g ref="char:EOLhyphen"/>unto required,) a true <hi>Catalogue</hi> a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Liſt</hi> fairly written, under their Hands, expreſſing ho<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> when and to whom ſuch <hi>Wharf-Carts</hi> are diſpoſed of ſom time to time.</p>
+            <p>And be it farther Enacted by the Authority aforeſaid, that if any ſuch <hi>Woodmongers</hi> o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Traders in FUEL,</hi> as aforeſaid, ſhall at any time a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er the <hi>Firſt</hi> Day of <hi>December</hi> next enſuing, preſume <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Work any <hi>Cart</hi> or <hi>Carts</hi> within the ſaid City and Li<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erties, by Himſelf or Servant, not being duly all<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wed, marked and appointed, as aforeſaid; ſuch pe<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on or perſons, for every time ſo offending, ſha<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and pay the Sum of <hi>Five pounds,</hi> to be recovere<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and obtained as is hereafter mentioned.</p>
+            <p>And that every of the ſaid <hi>Wodmongers</hi> or <hi>Traders in FUEL,</hi> keeping and working any ſuch <hi>Wharf Cart</hi> or <hi>Carts,</hi> ſo to be allowed, mark<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and appointed, as aforeſaid, by virtue of this pre<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t <hi>Act;</hi> ſhall from time to time duly obſerve all and very ſuch reaſonable <hi>Orders</hi> and <hi>Rules</hi> as ſhall be d<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ected and appointed by this <hi>COURT,</hi> or ſuch <hi>Committee</hi> ſo choſen and appointed, as aforeſaid.</p>
+            <p>And foraſmuch as great Diſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s and Diſturbances have hapned and ariſen amongſt <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Common Carmen,</hi> who Work the aforeſaid <hi>Four hundred and twenty Street-Cars</hi> about their Turns, in Carriage of <hi>Mer<g ref="char:EOLhyphen"/>chandize</hi> and other Goods, <hi>(viz) Which of them ſhall have Priority, and take up and load the firſt and next Load of Goods after or before <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ach other;</hi> whereof ſeveral <hi>Merchants</hi> and others have made Complaint to this <hi>COURT,</hi> and that the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have been Sufferers thereby: Therefore for Remed<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereof for the future, Be it Enacted by the Authorit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aforeſaid, That all <hi>Merchants</hi> and other Tradeſme<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> having any Occaſion for any <hi>Street Cart</hi> or <hi>Cars,</hi> ſhall and may uſe and imploy which and ſuch of them as he or they ſhall think fit,
+<pb n="6" facs="tcp:154048:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 23 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:154048:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 23 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:154048:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 24 -->and chuſe, for carrying of every ſuch firſt, next, or other Load or Loads, as he or they ſhall from time to time upon ſuch Occaſion direct or appoint; any Law or Vſage to the contr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry thereof notwithſtanding.</p>
+            <p>And, Laſtly, it i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hereby Enacted and Ordained by the Authority aforeſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id, That all <hi>Pains, Penalties</hi> and <hi>Forfeitures,</hi> in and b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this <hi>Act</hi> limited and appointed, ſhall and may be re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>overed by Action of <hi>Debt, Bill</hi> or <hi>Information,</hi> in the Name of the <hi>Chamberlain</hi> of this City, for the time <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing, in <hi>Their Majeſties Court,</hi> holden before the <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord Mayor</hi> and <hi>Aldermen</hi> of the ſaid City, in the <hi>Ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ward Chamber</hi> of the <hi>Guild Hall;</hi> and upon Recovery of the ſame, one Moiety thereof, after all Charges ex<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ended in ſuch Recovery, ſhall by the <hi>Chamberlain</hi> be <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid to the <hi>Informer</hi> or <hi>Proſecutor</hi> of ſuch Suit, and <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e other Moiety to the uſe of the <hi>Mayor</hi> and <hi>Commina<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> and <hi>Citizens</hi> of this City.</p>
+            <p>In all which <hi>Suit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to be brought by virtue of this Act, the <hi>Chamber<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n</hi> ſhall (in caſe he do recover) be allowed his Ordinary <hi>Coſts</hi> and <hi>Charges,</hi> expended in and about the ſame. And if <hi>Judgment</hi> ſhall happen to be given againſt <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Plaintiff</hi> in any ſuch Suit, or ſuch Suits ſhall be <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſcontinued, then the <hi>Defendant</hi> ſhall alſo Recover <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Coſts.</hi>
+            </p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Samuel Roycroft,</hi> Printer to the Honorable City of <hi>London.</hi> 1694.</p>
+            <pb facs="tcp:154048:6"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </back>
+   </text>
+</TEI>
